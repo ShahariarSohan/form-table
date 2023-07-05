@@ -9,5 +9,17 @@ body{
     background-size:cover;
 }
 .container{
+    
+    margin-top:50px;
+    width:400px;
+    height:400px;
+    display:block;
+    margin:auto;
+    border:2px solid black;
+    border-radius: 5px;
+    
+}
+.register{
+    display:block;
     margin:auto;
 }
