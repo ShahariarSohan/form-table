@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    height:620px;
+    background-image:url("images/Web.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.container{
+    margin:auto;
+}
